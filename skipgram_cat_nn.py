@@ -1,6 +1,6 @@
 #! /usr/bin/python3
 
-#Programmed by dan on 1007023.
+#Programmed by dan on 07Oct2023.
 #Use skipgram to train a neural network on a corpus.
 #Then measure training success by outputting which words are associated with 'cat'.
 
